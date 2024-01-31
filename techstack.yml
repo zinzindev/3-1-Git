@@ -1,0 +1,20 @@
+repo_name: zinzindev/3-1-Git
+report_id: 2633475e0bbc5c3011ca9e9cc9221f1f
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:32:54+00:00'
+requested_by: zinzindev
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zinzindev/3-1-Git
+  detection_source: Repo Metadata
